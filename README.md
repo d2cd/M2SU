@@ -1,5 +1,6 @@
 # M2SU
-this repository contains raw data / 3d models / materials of device in (...) 
+Mudular soft sensor unit made of eutectegel
+doi: 10.3390/bios15060339
 ## Raw Data and Labels
 
 - 9 person
