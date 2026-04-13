@@ -13,3 +13,9 @@ doi: 10.3390/bios15060339
 ## Materials
 ![materials](pic/all_material.png)
 
+## Supplementary Videos
+![videos](video/resolution.mp4)
+
+## Application
+![application](video/application.mp4)
+
