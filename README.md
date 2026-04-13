@@ -1,4 +1,4 @@
-# M2SU (Modular Soft Sensor Unit)
+
 
 This repository contains the dataset, 3D models, and supplementary visual documentation for the **M2SU** project.
 
