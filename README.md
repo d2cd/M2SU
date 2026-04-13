@@ -24,7 +24,7 @@ Ready-to-use models for fabrication:
 ### Device
 | Silicon glove with 8 m2su | 
 | :---: |
-| <img width="100%" alt="device" src="https://github.com/user-attachments/assets/78fe647d-1cc2-481e-81c5-429784a1cb18" />|
+| <img width="60%" alt="device" src="https://github.com/user-attachments/assets/78fe647d-1cc2-481e-81c5-429784a1cb18" />|
 
 
 
