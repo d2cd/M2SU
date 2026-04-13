@@ -15,7 +15,7 @@ Ready-to-use models for fabrication:
 
 ## 🛠️ Materials
 <p align="center">
-  <img src="https://github.com/d2cd/M2SU/raw/main/pic/all_material.png" alt="M2SU Materials" width="80%">
+  <img src="https://github.com/d2cd/M2SU/blob/main/pic/all_material.png" alt="M2SU Materials" width="80%">
 </p>
 
 ---
@@ -23,21 +23,19 @@ Ready-to-use models for fabrication:
 ## ✨ System Demonstrations & Characteristics
 
 ### Data Collection
-<video src="https://github.com/d2cd/M2SU/raw/main/pic/gesture_data_collection.mp4" controls autoplay loop muted width="100%"></video>
+<video src="https://github.com/d2cd/M2SU/blob/main/pic/gesture_data_collection.mp4" controls autoplay loop muted width="100%"></video>
 
 ### Performance & Flexibility
 
-| Precision Control (0.1mm steps) |
-| :---: |
-| <video src="https://github.com/d2cd/M2SU/raw/main/pic/0dot1.mp4" controls autoplay loop muted width="100%"></video> |
+| Precision Control (0.1mm steps) | Bending & Twisting Durability |
+| :---: | :---: |
+| <video src="https://github.com/d2cd/M2SU/blob/main/pic/0dot1.mp4" controls autoplay loop muted width="100%"></video> | <video src="https://github.com/d2cd/M2SU/blob/main/pic/twisting.mp4" controls autoplay loop muted width="100%"></video> |
 
-|Bending & Twisting Durability |
-| :---: |
-| <video src="https://github.com/d2cd/M2SU/raw/main/pic/twisting.mp4" controls autoplay loop muted width="100%"></video> |
+
 
 
 ### Applications & Assembly
 
 | Finger Joint Monitoring | Magnetic Connection |
 | :---: | :---: |
-| <img src="https://github.com/d2cd/M2SU/raw/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/raw/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> |
+| <img src="https://github.com/d2cd/M2SU/blob/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/blob/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> |
