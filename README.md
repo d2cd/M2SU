@@ -39,7 +39,7 @@ Ready-to-use models for fabrication:
 
 | Bending & Twisting Durability |
 | :---: |
-| <video src="https://github.com/user-attachments/assets/933445aa-a86c-4336-8f4c-f8c50488138a" controls autoplay loop muted width="100%"></video> |
+| <video src="https://github.com/user-attachments/assets/933445aa-a86c-4336-8f4c-f8c50488138a" controls autoplay loop muted width="60%"></video> |
 
 
 
