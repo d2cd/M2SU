@@ -20,8 +20,9 @@ Ready-to-use models for fabrication:
 
 ## 🛠️ Fabrication
 <p align="center">
-  <img src="fabrication" src="https://github.com/user-attachments/assets/9143ef24-3d9a-40e2-9a28-2b8b7a9d4139" alt="fabrication" width="80%">
+  <img width="2032" height="1133" alt="fabrication" src="https://github.com/user-attachments/assets/0d0450c0-4314-41a2-9f01-5345d3572426" />
 </p>
+
 
 
 ---
