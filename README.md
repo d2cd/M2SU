@@ -20,7 +20,7 @@ Ready-to-use models for fabrication:
 
 ## 🛠️ Fabrication
 <p align="center">
-  <img src="fabrication" src="https://github.com/user-attachments/assets/9143ef24-3d9a-40e2-9a28-2b8b7a9d4139" alt="M2SU Materials" width="80%">
+  <img src="fabrication" src="https://github.com/user-attachments/assets/9143ef24-3d9a-40e2-9a28-2b8b7a9d4139" alt="fabrication" width="80%">
 </p>
 
 
