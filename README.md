@@ -36,9 +36,9 @@ Ready-to-use models for fabrication:
 
 ### Applications & Assembly
 
-| Finger Joint Monitoring | Magnetic Connection | | Magnetic Connection |
+| Finger Joint Monitoring | Magnetic Connection | Magnetic Connection |
 | :---: | :---: |  :---: |
-| <img src="https://github.com/d2cd/M2SU/blob/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/blob/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> | <img width="803" height="623" alt="connection via magetic force" src="https://github.com/user-attachments/assets/ff4825bb-ff8f-41a0-a575-adb589889758" />|
+| <img src="https://github.com/d2cd/M2SU/blob/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/blob/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> | <img alt="connection via magetic force" src="https://github.com/user-attachments/assets/ff4825bb-ff8f-41a0-a575-adb589889758" width="100%"/>|
 
 
 
