@@ -21,6 +21,12 @@ Ready-to-use models for fabrication:
 ---
 
 ## ✨ System Demonstrations & Characteristics
+### Device
+| Silicon glove with 8 m2su | 
+| :---: |
+| <img width="1298" height="961" alt="device" src="https://github.com/user-attachments/assets/78fe647d-1cc2-481e-81c5-429784a1cb18" />|
+
+
 
 ### Data Collection
 <video src="https://github.com/user-attachments/assets/7a3099c3-0a14-41c2-a477-c166b4e0ca66" controls autoplay loop muted width="100%"></video>
