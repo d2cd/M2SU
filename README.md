@@ -27,18 +27,22 @@ Ready-to-use models for fabrication:
 
 ### Performance & Flexibility
 
-| Precision Control (0.1mm steps) | Bending & Twisting Durability |
+| Precision Control (1mm each steps) | Bending & Twisting Durability |
 | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/0c0cebd0-d482-4ce9-8cd9-d8785df5dea8" controls autoplay loop muted width="100%"></video> | <video src="https://github.com/d2cd/M2SU/blob/main/pic/twisting.mp4" controls autoplay loop muted width="100%"></video> |
+| <video src="https://github.com/user-attachments/assets/0c0cebd0-d482-4ce9-8cd9-d8785df5dea8" controls autoplay loop muted width="100%"></video> | <video src="https://github.com/user-attachments/assets/933445aa-a86c-4336-8f4c-f8c50488138a" controls autoplay loop muted width="100%"></video> |
 
 
 
 
 ### Applications & Assembly
 
-| Finger Joint Monitoring | Magnetic Connection |
-| :---: | :---: |
-| <img src="https://github.com/d2cd/M2SU/blob/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/blob/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> |
+| Finger Joint Monitoring | Magnetic Connection | | Magnetic Connection |
+| :---: | :---: |  :---: |
+| <img src="https://github.com/d2cd/M2SU/blob/main/pic/finger_joint_mornitoring.png" alt="Finger joint monitoring" width="100%"> | <img src="https://github.com/d2cd/M2SU/blob/main/pic/connect.jpg" alt="Connection via magnetic force" width="100%"> | <img width="803" height="623" alt="connection via magetic force" src="https://github.com/user-attachments/assets/ff4825bb-ff8f-41a0-a575-adb589889758" />|
+
+
+
+
 
 
 
