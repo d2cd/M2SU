@@ -28,8 +28,9 @@ Ready-to-use models for fabrication:
 ### Performance & Flexibility
 
 | Precision Control (0.1mm steps) | Bending & Twisting Durability |
-| :---: | :---: |
-| <video src="https://github.com/d2cd/M2SU/raw/main/pic/0dot1.mp4" controls autoplay loop muted width="100%"></video> | <video src="https://github.com/d2cd/M2SU/raw/main/pic/twisting.mp4" controls autoplay loop muted width="100%"></video> |
+| :---: |
+| <video src="https://github.com/d2cd/M2SU/raw/main/pic/0dot1.mp4" controls autoplay loop muted width="100%"></video> |
+| <video src="https://github.com/d2cd/M2SU/raw/main/pic/twisting.mp4" controls autoplay loop muted width="100%"></video> |
 
 ### Applications & Assembly
 
